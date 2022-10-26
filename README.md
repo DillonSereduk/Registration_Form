@@ -1,4 +1,4 @@
-* Basic HTML: 'Registration Form'
+#Basic HTML: 'Registration Form'
 
 
     -Used a wide variety of inputs to experiment with
